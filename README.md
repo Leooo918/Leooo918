@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Leooo's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
+
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/c#-512BD4?style=for-the-badge&logo=c#&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<br>
+</div>
+
+
 <!--
 **Leooo918/Leooo918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
